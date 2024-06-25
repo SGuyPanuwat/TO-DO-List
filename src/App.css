@@ -1,0 +1,35 @@
+
+.App {
+  background: #ffffff ;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+ul {
+ 
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  display: flex;
+}
+
+li input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+li span {
+  flex-grow: 1;
+}
+
+.ant-form-item {
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.todo-item {
+  text-align: left;
+}

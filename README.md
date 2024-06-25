@@ -1,8 +1,13 @@
-# React + Vite
+เครื่องมือการสร้าง
+1.React + vite 
+2.Ant Design ( Front-end Framework)
+3.Moment.js (javascript library) สำหรับจัดการวันที่
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ตัวช่วยในการส้ราง 
+1.stack overflow
+2.chat GPT
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+วิธีการ run โปรเจค
+1.เมื่อ cd เข้าโปรเจคเเล้ว (TestProject) ให้ npm install
+2.จากนั้น ให้ run โปรเจคขึ้นมา ด้วย npm run dev git status

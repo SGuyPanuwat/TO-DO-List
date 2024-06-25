@@ -10,4 +10,4 @@
 
 วิธีการ run โปรเจค
 1.เมื่อ cd เข้าโปรเจคเเล้ว (TestProject) ให้ npm install
-2.จากนั้น ให้ run โปรเจคขึ้นมา ด้วย npm run dev git status
+2.จากนั้น ให้ run โปรเจคขึ้นมา ด้วย npm run dev 
